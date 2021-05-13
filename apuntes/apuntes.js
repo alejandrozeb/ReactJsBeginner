@@ -12,6 +12,11 @@
 
     npx instala de manera local busca las depedendencias en nodemodules
 
+    en las depedendencias no viene babel o wepack
+    jest si viene
+
+    react nos permite usar reactividad 
     
+
 
 */
